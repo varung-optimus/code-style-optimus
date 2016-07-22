@@ -7,7 +7,7 @@
     ".eslintrc-reset",
     ".jsinspectrc",
     ".sass-lint.yml",
-    ".yo-rc",
+    ".yo-rc.json",
     "BACKLOG.md"
     ],
   "authors": [
