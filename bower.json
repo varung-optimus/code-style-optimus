@@ -1,0 +1,22 @@
+{
+  "name": "optimus-code-style",
+  "description": "Optimus code style and githook",
+  "main": "",
+  "authors": [
+    "Optimus"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "grunt",
+    "optimus-code-style",
+    "git-hook"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

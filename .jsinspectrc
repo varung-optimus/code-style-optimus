@@ -1,0 +1,10 @@
+// Identify duplicate code and share the information in xml
+
+{
+  "threshold":     5,
+  "identifiers":   true,
+  "ignore":        "",
+  "jsx":           true,
+  "reporter":      "default",
+  "suppress":      100
+}

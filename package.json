@@ -1,0 +1,37 @@
+{
+  "name": "linters",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimusinfo/OptimusReusableUIBoilerplate.git#linter"
+  },
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "grunt": "^1.0.1",
+    "grunt-githooks": "^0.6.0",
+    "grunt-jsinspect": "^1.2.0",
+    "grunt-sass-lint": "^0.2.0",
+    "gruntify-eslint": "^2.0.0",
+    "jsinspect": "^0.8.0",
+    "sass-lint": "^1.8.2"
+  },
+  "description": "Optimus code style and githook",
+  "bugs": {
+    "url": "https://github.com/optimusinfo/OptimusReusableUIBoilerplate/issues"
+  },
+  "homepage": "https://github.com/optimusinfo/OptimusReusableUIBoilerplate/tree/linter#readme",
+  "dependencies": {
+    "eslint": "^3.1.1",
+    "jsinspect": "^0.8.0",
+    "grunt": "^1.0.1",
+    "sass-lint": "^1.8.2"
+  },
+  "keywords": [
+    "grunt",
+    "optimus-code-style",
+    "git-hook"
+  ],
+  "author": "Optimus",
+  "license": "MIT"
+}
