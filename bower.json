@@ -1,5 +1,5 @@
 {
-  "name": "optimus-code-style",
+  "name": "code-style-optimus",
   "description": "Optimus code style and githook",
   "main": [
     ".eslintignore",
