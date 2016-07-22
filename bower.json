@@ -1,7 +1,15 @@
 {
   "name": "optimus-code-style",
   "description": "Optimus code style and githook",
-  "main": "",
+  "main": [
+    ".eslintignore",
+    ".eslintrc",
+    ".eslintrc-reset",
+    ".jsinspectrc",
+    ".sass-lint.yml",
+    ".yo-rc",
+    "BACKLOG.md"
+    ],
   "authors": [
     "Optimus"
   ],
